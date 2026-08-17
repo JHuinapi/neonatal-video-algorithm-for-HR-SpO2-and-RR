@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Videos and datasets
+*.mp4
+*.avi
+*.mov
+data/
+dataset/
+datasets/
+videos/
+
+# Generated model outputs
+model_outputs/
+*/model_outputs/
+*.pickle
+
+# Outputs
+outputs/
+results/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Environment files
+.env
+
+# Windows
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
