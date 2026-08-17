@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cardioalerta Vital Signs
 
 Prototype for contactless infant vital-sign estimation from RGB video.
@@ -318,4 +317,3 @@ docs/references.md
 =======
 # neonatal-video-algorithm-for-HR-SpO2-and-RR
 Video-based vital sign estimation using rPPG and machine learning for heart rate and SpO₂, integrating the NeoCare repository with AIR-400 optical-flow analysis for respiratory rate estimation.
->>>>>>> 4f0f7ad68cab1e83bd10863245269d8bc5307def
