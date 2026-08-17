@@ -8,6 +8,11 @@ venv/
 .venv/
 env/
 
+# Pretrained model weights
+*.pt
+*.pth
+*.ckpt
+
 # Videos and datasets
 *.mp4
 *.avi
